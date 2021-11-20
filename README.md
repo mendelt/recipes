@@ -1,2 +1,5 @@
 # recipes
-Just some cooking recipes in markdown format
+Recepten in markdown formaat.
+
+Recepten volgen het [RecipeMD](https://recipemd.org/specification.html) formaat.
+
